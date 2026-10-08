@@ -1,0 +1,8 @@
+name: Mermaid
+version: '${version}'
+
+main: gudejunge.mermaid.Mermaid
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ GudeJunge ]
