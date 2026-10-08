@@ -1,3 +1,4 @@
+![Plugin Image](mermaid.png)
 # Mermaid🧜‍♀️
 This plugin adds mermaid-like mechanics to Minecraft.
 
